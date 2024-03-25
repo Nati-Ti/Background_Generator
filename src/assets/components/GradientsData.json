@@ -1,0 +1,152 @@
+[
+  {
+    "name": "Cactus",
+    "color1": "#C6EA8D",
+    "color2": "#FE90AF"
+  },
+  {
+    "name": "Yosemite",
+    "color1": "#EA8D8D",
+    "color2": "#A890FE"
+  },
+  {
+    "name": "Antarctica",
+    "color1": "#D8B5FF",
+    "color2": "#1EAE98"
+  },
+  {
+    "name": "Exotic",
+    "color1": "#FF61D2",
+    "color2": "#FE9090"
+  },
+  {
+    "name": "Toxic",
+    "color1": "#BFF098",
+    "color2": "#6FD6FF"
+  },
+  {
+    "name": "Orbit",
+    "color1": "#4E65FF",
+    "color2": "#92EFFD"
+  },
+  {
+    "name": "No Mans",
+    "color1": "#A9F1DF",
+    "color2": "#FFBBBB"
+  },
+  {
+    "name": "Celestial",
+    "color1": "#C33764",
+    "color2": "#1D2671"
+  },
+  {
+    "name": "Clean Mirror",
+    "color1": "#93A5CF",
+    "color2": "#E4EfE9"
+  },
+  {
+    "name": "Mountain Rock",
+    "color1": "#868F96",
+    "color2": "#596164"
+  },
+  {
+    "name": "Eternal Constance",
+    "color1": "#09203F",
+    "color2": "#537895"
+  },
+  {
+    "name": "Juicy Peach",
+    "color1": "#FFECD2",
+    "color2": "#FCB69F"
+  },
+  {
+    "name": "Winter Neva",
+    "color1": "#A1C4FD",
+    "color2": "#C2E9FB"
+  },
+  {
+    "name": "Plum Plate",
+    "color1": "#764BA2",
+    "color2": "#667EEA"
+  },
+  {
+    "name": "EverLasting Sky",
+    "color1": "#FDFCFB",
+    "color2": "#E2D1C3"
+  },
+  {
+    "name": "Sunrise",
+    "color1": "#FF512F",
+    "color2": "#DD2476"
+  },
+  {
+    "name": "Ocean",
+    "color1": "#4CB8C4",
+    "color2": "#3CD3AD"
+  },
+  {
+    "name": "Forest",
+    "color1": "#1A2980",
+    "color2": "#26D0CE"
+  },
+  {
+    "name": "Sunny Beach",
+    "color1": "#FFAFBD",
+    "color2": "#FFC3A0"
+  },
+  {
+    "name": "Twilight",
+    "color1": "#2C3E50",
+    "color2": "#FD746C"
+  },
+  {
+    "name": "Ocean Blue",
+    "color1": "#2E3192",
+    "color2": "#1BFFFF"
+  },
+  {
+    "name": "Sanguine",
+    "color1": "#D4145A",
+    "color2": "#FBB03B"
+  },
+  {
+    "name": "Luscious Lime",
+    "color1": "#009245",
+    "color2": "#FCEE21"
+  },
+  {
+    "name": "Purple Lake",
+    "color1": "#662D8C",
+    "color2": "#ED1E79"
+  },
+  {
+    "name": "Piglet",
+    "color1": "#EE9CA7",
+    "color2": "#FFDDE1"
+  },
+  {
+    "name": "Kashmir",
+    "color1": "#614385",
+    "color2": "#516395"
+  },
+  {
+    "name": "Green Beach",
+    "color1": "#02AABD",
+    "color2": "#00CDAC"
+  },
+  {
+    "name": "Bloody Mary",
+    "color1": "#FF512F",
+    "color2": "#DD2476"
+  },
+  {
+    "name": "Sweet Morning",
+    "color1": "#FF5F6D",
+    "color2": "#FFC371"
+  },
+  {
+    "name": "Quepal",
+    "color1": "#11998E",
+    "color2": "#38EF7D"
+  }
+]

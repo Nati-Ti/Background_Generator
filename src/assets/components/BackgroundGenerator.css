@@ -1,0 +1,69 @@
+.BG_Wrapper{
+  display: flex;
+  justify-content: space-evenly;
+  z-index: 9999;
+  position: absolute;
+}
+
+.BackgroundGenerator {
+  margin-top: -50px;
+  display: flex;
+  flex-direction: column;
+  /* align-items: center; */
+  justify-content: center;
+  height: 100vh;
+}
+
+.BackgroundGenerator h2{
+  color: transparent;
+  background-clip: text;
+  -webkit-background-clip: text;
+}
+
+.controls {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.color-picker {
+  display: flex;
+}
+
+.color-picker input {
+  cursor: pointer;
+  margin-right: 10px;
+  /* padding: 10px; */
+  background: none;
+  border: none;
+}
+
+.gradient_type {
+  cursor: pointer;
+  border: none;
+  background-color: #D8D8D8;
+  border-radius: 10px;
+  font-weight: normal;
+  padding: 5px 10px;
+  margin: 0 10px;
+}
+
+.gradient-types button:hover {
+  background-color: #999;
+  font-weight: bold;
+  padding: 5px 10px;
+}
+
+.active{
+  border: none;
+  border-radius: 10px;
+  background-color: #999;
+  font-weight: bold;
+  padding: 5px 10px;
+}
+
+.background-preview {
+  width: 400px;
+  height: 200px;
+  border: 1px solid #000;
+}
